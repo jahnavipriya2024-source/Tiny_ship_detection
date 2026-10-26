@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+    <defs>
+      <linearGradient id="deepSeaGrad_heroOcean" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#06253D"/>
+        <stop offset="60%" stop-color="#020C17"/>
+        <stop offset="100%" stop-color="#020B14"/>
+      </linearGradient>
+      <radialGradient id="sunGlint" cx="70%" cy="30%" r="60%">
+        <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <!-- Ocean Floor / Water Surface -->
+    <rect width="1440" height="900" fill="url(#deepSeaGrad_heroOcean)"/>
+    <rect width="1440" height="900" fill="url(#sunGlint)"/>
+    <path d="M 0 15 Q 360 23, 720 15 T 1440 15" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 37 Q 360 45, 720 37 T 1440 37" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 59 Q 360 67, 720 59 T 1440 59" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 81 Q 360 89, 720 81 T 1440 81" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 103 Q 360 111, 720 103 T 1440 103" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 125 Q 360 133, 720 125 T 1440 125" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 147 Q 360 155, 720 147 T 1440 147" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 169 Q 360 177, 720 169 T 1440 169" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 191 Q 360 199, 720 191 T 1440 191" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 213 Q 360 221, 720 213 T 1440 213" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 235 Q 360 243, 720 235 T 1440 235" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 257 Q 360 265, 720 257 T 1440 257" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 279 Q 360 287, 720 279 T 1440 279" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 301 Q 360 309, 720 301 T 1440 301" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 323 Q 360 331, 720 323 T 1440 323" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 345 Q 360 353, 720 345 T 1440 345" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 367 Q 360 375, 720 367 T 1440 367" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 389 Q 360 397, 720 389 T 1440 389" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 411 Q 360 419, 720 411 T 1440 411" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 433 Q 360 441, 720 433 T 1440 433" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 455 Q 360 463, 720 455 T 1440 455" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 477 Q 360 485, 720 477 T 1440 477" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 499 Q 360 507, 720 499 T 1440 499" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 521 Q 360 529, 720 521 T 1440 521" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 543 Q 360 551, 720 543 T 1440 543" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 565 Q 360 573, 720 565 T 1440 565" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 587 Q 360 595, 720 587 T 1440 587" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 609 Q 360 617, 720 609 T 1440 609" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 631 Q 360 639, 720 631 T 1440 631" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 653 Q 360 661, 720 653 T 1440 653" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 675 Q 360 683, 720 675 T 1440 675" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 697 Q 360 705, 720 697 T 1440 697" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 719 Q 360 727, 720 719 T 1440 719" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 741 Q 360 749, 720 741 T 1440 741" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 763 Q 360 771, 720 763 T 1440 763" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 785 Q 360 793, 720 785 T 1440 785" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 807 Q 360 815, 720 807 T 1440 807" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 829 Q 360 837, 720 829 T 1440 829" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 851 Q 360 859, 720 851 T 1440 851" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 873 Q 360 881, 720 873 T 1440 873" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 895 Q 360 903, 720 895 T 1440 895" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/>
+    
+    <path d="M 0 0 L 320 0 Q 280 180, 220 320 T 140 600 L 0 900 Z" fill="#163622" stroke="#2D5A34" stroke-width="2" opacity="0.8"/>
+    <path d="M 0 0 L 320 0 Q 280 180, 220 320 T 140 600 L 0 900 Z" fill="#2E6B3C" opacity="0.4" transform="scale(0.95) translate(4, 3)"/>
+    <path d="M 0 0 L 320 0 Q 280 180, 220 320 T 140 600 L 0 900 Z" fill="#D4B483" stroke="none" opacity="0.3" transform="scale(1.03) translate(-2, -1)"/>
+  
+    <path d="M 1180 900 L 1440 900 L 1440 450 Q 1320 540, 1260 680 Z" fill="#1A3F28" stroke="#2D5A34" stroke-width="2" opacity="0.7"/>
+    <path d="M 1180 900 L 1440 900 L 1440 450 Q 1320 540, 1260 680 Z" fill="#2E6B3C" opacity="0.4" transform="scale(0.95) translate(4, 3)"/>
+    <path d="M 1180 900 L 1440 900 L 1440 450 Q 1320 540, 1260 680 Z" fill="#D4B483" stroke="none" opacity="0.3" transform="scale(1.03) translate(-2, -1)"/>
+  
+    
+    <g transform="translate(420, 280) rotate(35)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(620, 390) rotate(40)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(740, 460) rotate(45)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(910, 560) rotate(38)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(1040, 640) rotate(42)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    
+      <g filter="blur(8px)" opacity="0.25">
+        <ellipse cx="288" cy="270" rx="70" ry="25" fill="#FFFFFF"/>
+        <ellipse cx="1007.9999999999999" cy="630" rx="90" ry="35" fill="#FFFFFF"/>
+        <ellipse cx="1152" cy="225" rx="50" ry="20" fill="#FFFFFF"/>
+      </g>
+    
+  </svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="500" height="320">
+    <defs>
+      <linearGradient id="deepSeaGrad_indianOcean" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#082D4A"/>
+        <stop offset="60%" stop-color="#031422"/>
+        <stop offset="100%" stop-color="#020B14"/>
+      </linearGradient>
+      <radialGradient id="sunGlint" cx="70%" cy="30%" r="60%">
+        <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <!-- Ocean Floor / Water Surface -->
+    <rect width="500" height="320" fill="url(#deepSeaGrad_indianOcean)"/>
+    <rect width="500" height="320" fill="url(#sunGlint)"/>
+    <path d="M 0 15 Q 125 23, 250 15 T 500 15" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 37 Q 125 45, 250 37 T 500 37" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 59 Q 125 67, 250 59 T 500 59" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 81 Q 125 89, 250 81 T 500 81" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 103 Q 125 111, 250 103 T 500 103" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 125 Q 125 133, 250 125 T 500 125" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 147 Q 125 155, 250 147 T 500 147" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 169 Q 125 177, 250 169 T 500 169" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 191 Q 125 199, 250 191 T 500 191" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 213 Q 125 221, 250 213 T 500 213" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 235 Q 125 243, 250 235 T 500 235" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 257 Q 125 265, 250 257 T 500 257" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 279 Q 125 287, 250 279 T 500 279" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 301 Q 125 309, 250 301 T 500 301" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/>
+    
+    <path d="M 240 40 Q 260 60, 250 85 T 235 70 Z" fill="#20462F" stroke="#2D5A34" stroke-width="2" opacity="0.9"/>
+    <path d="M 240 40 Q 260 60, 250 85 T 235 70 Z" fill="#2E6B3C" opacity="0.4" transform="scale(0.95) translate(4, 3)"/>
+    <path d="M 240 40 Q 260 60, 250 85 T 235 70 Z" fill="#D4B483" stroke="none" opacity="0.3" transform="scale(1.03) translate(-2, -1)"/>
+  
+    <path d="M 220 180 Q 223 200, 221 220 L 219 220 Z" fill="#325C43" stroke="#2D5A34" stroke-width="2" opacity="0.9"/>
+    <path d="M 220 180 Q 223 200, 221 220 L 219 220 Z" fill="#2E6B3C" opacity="0.4" transform="scale(0.95) translate(4, 3)"/>
+    <path d="M 220 180 Q 223 200, 221 220 L 219 220 Z" fill="#D4B483" stroke="none" opacity="0.3" transform="scale(1.03) translate(-2, -1)"/>
+  
+    
+    <g transform="translate(300, 150) rotate(70)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    
+      <g filter="blur(8px)" opacity="0.25">
+        <ellipse cx="100" cy="96" rx="70" ry="25" fill="#FFFFFF"/>
+        <ellipse cx="350" cy="224" rx="90" ry="35" fill="#FFFFFF"/>
+        <ellipse cx="400" cy="80" rx="50" ry="20" fill="#FFFFFF"/>
+      </g>
+    
+  </svg>

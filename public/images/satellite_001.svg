@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+    <defs>
+      <linearGradient id="deepSeaGrad_sat001" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0E3854"/>
+        <stop offset="60%" stop-color="#062033"/>
+        <stop offset="100%" stop-color="#020B14"/>
+      </linearGradient>
+      <radialGradient id="sunGlint" cx="70%" cy="30%" r="60%">
+        <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <!-- Ocean Floor / Water Surface -->
+    <rect width="640" height="480" fill="url(#deepSeaGrad_sat001)"/>
+    <rect width="640" height="480" fill="url(#sunGlint)"/>
+    <path d="M 0 15 Q 160 23, 320 15 T 640 15" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 37 Q 160 45, 320 37 T 640 37" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 59 Q 160 67, 320 59 T 640 59" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 81 Q 160 89, 320 81 T 640 81" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 103 Q 160 111, 320 103 T 640 103" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 125 Q 160 133, 320 125 T 640 125" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 147 Q 160 155, 320 147 T 640 147" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 169 Q 160 177, 320 169 T 640 169" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 191 Q 160 199, 320 191 T 640 191" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 213 Q 160 221, 320 213 T 640 213" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 235 Q 160 243, 320 235 T 640 235" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 257 Q 160 265, 320 257 T 640 257" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 279 Q 160 287, 320 279 T 640 279" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 301 Q 160 309, 320 301 T 640 301" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 323 Q 160 331, 320 323 T 640 323" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 345 Q 160 353, 320 345 T 640 345" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 367 Q 160 375, 320 367 T 640 367" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 389 Q 160 397, 320 389 T 640 389" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 411 Q 160 419, 320 411 T 640 411" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 433 Q 160 441, 320 433 T 640 433" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 455 Q 160 463, 320 455 T 640 455" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/><path d="M 0 477 Q 160 485, 320 477 T 640 477" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.12"/>
+    
+    
+    <g transform="translate(140, 100) rotate(42)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(220, 160) rotate(38)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(350, 235) rotate(45)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(440, 325) rotate(50)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    <g transform="translate(520, 410) rotate(40)">
+      <!-- Ship Wake -->
+      <path d="M 0 0 L -8 18 L 8 18 Z" fill="#E0F2FE" opacity="0.4" filter="blur(1px)"/>
+      <path d="M 0 0 L -18 36 L 18 36 Z" fill="#38BDF8" opacity="0.2" filter="blur(2px)"/>
+      <!-- Tiny Ship Hull -->
+      <path d="M 0 -8 L 3.5 4 L 3 10 L -3 10 L -3.5 4 Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="0.75"/>
+      <circle cx="0" cy="1" r="1.5" fill="#EF4444"/>
+    </g>
+  
+    
+      <g filter="blur(8px)" opacity="0.25">
+        <ellipse cx="128" cy="144" rx="70" ry="25" fill="#FFFFFF"/>
+        <ellipse cx="448" cy="336" rx="90" ry="35" fill="#FFFFFF"/>
+        <ellipse cx="512" cy="120" rx="50" ry="20" fill="#FFFFFF"/>
+      </g>
+    
+  </svg>
